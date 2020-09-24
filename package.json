@@ -1,0 +1,18 @@
+{
+  "name": "jk-personal-api",
+  "version": "0.0.1",
+  "description": "Super MVP of a personal API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "json-server, heroku, node, REST API"
+  ],
+  "author": "John Koht",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.12.1"
+  }
+}

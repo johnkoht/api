@@ -1,0 +1,227 @@
+{
+  "work": [
+    {
+      "id": "work_1",
+      "client": {
+        "company": "Hub Group",
+        "logo": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275210/api/hub-group-logo.svg",
+        "industry": "Logistics & Transportation"
+      },
+      "type": "mobile_app",
+      "title": "Powering an Enterprise Fleet",
+      "description": "I led a small design team and collaborated with internal and external developers to launch a best-in-class mobile app for a fleet of over 5,000 drivers. I introduced and led design-thinking principles  that transformed the way the app was designed and built to enable drivers to work faster and smarter.",
+      "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275210/api/hub-group-iphone.png",
+      "url": "https://www.kohactive.com/work/logistics-fleet-driver-mobile-app/",
+      "roles": [
+        "Product Strategy",
+        "Product Management",
+        "Design Lead"
+      ]
+    },
+    {
+      "id": "work_2",
+      "client": {
+        "company": "Select Home Warranty",
+        "logo": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275210/api/shw-logo.svg",
+        "industry": "Insurance"
+      },
+      "type": "custom_software",
+      "title": "Contractor Dispatch Automation",
+      "description": "One of the many successful projects we launched with Select Home Warranty is a powerful automation system. We used design-thinking and an agile approach to create a custom software system that reduced contractor dispatching from hours to automatic.",
+      "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275210/api/shw-contractor-dispatch-image.png",
+      "url": "https://www.kohactive.com/work/select-home-warranty/",
+      "roles": [
+        "Product Strategy",
+        "Product Management",
+        "Team Director"
+      ]
+    },
+    {
+      "id": "work_3",
+      "client": {
+        "company": "Tiny House Listings",
+        "logo": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275210/api/thl-logo.svg",
+        "industry": "Real Estate"
+      },
+      "type": "custom_software",
+      "title": "The Largest Tiny House Marketplace",
+      "description": "I helped launch the largest real estate marketplace for tiny homes from a simple WordPress site to a scalable customer software product. I led product strategy and a team of designers, developers, and a product manager. I continue to lead product and strategy with the founders and internal development team.",
+      "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275210/api/thl-graphic.png",
+      "url": null,
+      "roles": [
+        "Product Strategy",
+        "Product Management",
+        "Team Director"
+      ]
+    }
+  ],
+
+  "about": {
+    "name": "John Koht",
+    "first_name": "John",
+    "last_name": "Koht",
+    "birthdate": "1983-11-17 05:31:17",
+    "location": {
+      "latitude": 41.881832,
+      "longitude": -87.623177,
+      "city": "Chicago",
+      "state": "IL",
+      "zip_code": 60622
+    },
+    "avatar": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275277/api/jk-profile-pic.jpg",
+    "employment": {
+      "company": "Kohactive",
+      "position": "Managing Director"
+    },
+    "education": {
+      "institution": "Boston University",
+      "degree": "Bachelors or Arts",
+      "major": "Philosophy"
+    },
+    "family": {
+      "spouse": {
+        "name": "Cristina Falbo",
+        "first_name": "Cristina",
+        "last_name": "Falbo"
+      },
+      "kids": [
+        {
+          "name": "Anthony Koht",
+          "first_name": "Anthony",
+          "last_name": "Koht",
+          "birthdate": "2019-04-27 00:42:00"
+        }
+      ]
+    },
+    "biography": "<p>Hi, I'm John. I'm a full-stack product builder from Chicago. I'm currently running a digital product agency that I founded in 2008. I help startups and businesses build custom software that enables them to innovate and grow.</p><p>My software adventures started in 1995 when I was twelve years old and discovered AOL. I created punters and scrollers to learn how to code using Visual Basic. I used to create interfaces using Microsoft Paint. I probably annoyed a lot of people with the stupid apps I built. Fast forward to 2007. I started creating websites and custom content management systems for some local businesses to help develop their online presence.</p><p>I founded Kohactive with a mission of creating quality software for companies of all sizes. Initially, I acted as a project manager, designer, and front-end developer but eventually moved into backend development, product management, and strategy. Since then, I've helped launch over 200 products for startups, SMBs, and enterprise companies. I enjoy the entire process of product development from the ideation to strategy to execution.</p><p>When I'm not working or spending time with my family, I enjoy a variety of hobbies like photography, tinkering with some IoT/home automation, and working on side projects. I'm a fan of whiskey and have been known to make some delicious cocktails at home.</p>",
+    "short_bio": "Hi, I’m John Koht, a full-stack product builder from Chicago with experience building impactful products & teams.",
+    "links": [
+      {
+        "site": "Instagram",
+        "icon": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275356/api/instagram.svg",
+        "url": "https://instagram.com/johnkoht"
+      },
+      {
+        "site": "Twitter",
+        "icon": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275357/api/twitter.svg",
+        "url": "https://twitter.com/johnkoht"
+      },
+      {
+        "site": "Github",
+        "icon": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275356/api/github.svg",
+        "url": "https://github.com/johnkoht"
+      },
+      {
+        "site": "Dribbble",
+        "icon": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275356/api/dribbble.svg",
+        "url": "https://dribbble.com/johnkoht"
+      },
+      {
+        "site": "LinkedIn",
+        "icon": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275356/api/linkedin.svg",
+        "url": "https://linkedin.com/in/johnkoht"
+      },
+      {
+        "site": "Email",
+        "icon": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275356/api/gmail.svg",
+        "url": "mailto:john.koht@hey.com"
+      }
+    ]
+  },
+
+  "photos": [
+    {
+      "id": "photo_1",
+      "description": "Sears Tower from the Chicago street bridge.",
+      "url": "https://flic.kr/p/2ic6TNL",
+      "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/chicago-bridge.jpg"
+    },
+
+    {
+      "id": "photo_2",
+      "description": "Red Rocks in Colorado",
+      "url": "https://flic.kr/p/2ic6EEb",
+      "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/red-rocks.jpg"
+    },
+
+    {
+      "id": "photo_3",
+      "description": "Church in Paris",
+      "url": "https://flic.kr/p/2ic3kRg",
+      "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/paris.jpg"
+    },
+
+    {
+      "id": "photo_4",
+      "description": "Eiffel Tower at night",
+      "url": "https://flic.kr/p/2ic5F7e",
+      "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/eiffel-tower.jpg"
+    },
+
+    {
+      "id": "photo_5",
+      "description": "Anthony is a n00b",
+      "url": "https://flic.kr/p/2ic3Cwa",
+      "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/anthony.jpg"
+    },
+
+    {
+      "id": "photo_6",
+      "description": "Roscoe awaiting his sibling",
+      "url": "https://flic.kr/p/2ig1Hnn",
+      "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/roscoe.jpg"
+    },
+
+    {
+      "id": "photo_7",
+      "description": "John Hancock Building in Chicago",
+      "url": "https://flic.kr/p/2ic6SLF",
+      "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/hancock.jpg"
+    },
+
+    {
+      "id": "photo_8",
+      "description": "Yosemite National park",
+      "url": "https://flic.kr/p/2ic3yTJ",
+      "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/yosemite.jpg"
+    },
+
+    {
+      "id": "photo_9",
+      "description": "New York, New Yrok",
+      "url": "https://flic.kr/p/2ic5Gr8",
+      "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/nyc.jpg"
+    }
+  ],
+
+  "blog_posts": [
+    {
+      "id": "build-vs-buy-software",
+      "url": "https://blog.kohactive.com/build-vs-buy-software/",
+      "title": "Build vs. Buy Software: Making a Decision That's Right for Your Business",
+      "summary": "A few helpful things to consider when contemplating whether to build or buy software."
+    },
+    {
+      "id": "human-centered-design",
+      "url": "https://blog.kohactive.com/human-centered-design/",
+      "title": "How Human-Centered Design Can Transform Your Organization",
+      "summary": "Human-centered design enables organizations to create better products and services."
+    },
+    {
+      "id": "pivoting-is-part-of-the-startup-process",
+      "url": "https://blog.kohactive.com/pivoting-is-part-of-the-startup-process/",
+      "title": "Pivoting is Part of the Startup Process",
+      "summary": "Founders should embrace pivoting as a path toward success."
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
