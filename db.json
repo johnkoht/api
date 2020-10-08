@@ -62,8 +62,8 @@
     "last_name": "Koht",
     "birthdate": "1983-11-17 05:31:17",
     "location": {
-      "latitude": 41.881832,
-      "longitude": -87.623177,
+      "latitude": 41.895890,
+      "longitude": -87.672550,
       "city": "Chicago",
       "state": "IL",
       "zip_code": 60622
@@ -99,7 +99,7 @@
       {
         "site": "Instagram",
         "icon": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275356/api/instagram.svg",
-        "url": "https://instagram.com/johnkoht"
+        "url": "https://instagram.com/john.koht"
       },
       {
         "site": "Twitter",
