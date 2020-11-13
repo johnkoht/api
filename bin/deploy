@@ -1,0 +1,10 @@
+#!/bin/sh
+
+# Run this script to deploy the app to Heroku.
+branch="$(git symbolic-ref HEAD --short)"
+target="${1:-staging}"
+
+git push "$target" "$branch:master"
+
+# Trigger a webhook rebuild
+curl -X POST https://api.vercel.com/v1/integrations/deploy/QmSpHAMsXJS2vBJSnAcw6c6V8FJSg3CppWGGWrXwDeoWD6/a17W0LeBzF
