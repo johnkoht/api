@@ -13,7 +13,7 @@
       "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275210/api/hub-group-iphone.png",
       "url": "https://www.kohactive.com/work/logistics-fleet-driver-mobile-app/",
       "roles": [
-        "Product Strategy",
+        "Product Lead",
         "Product Management",
         "Design Lead"
       ]
@@ -31,7 +31,7 @@
       "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275210/api/shw-contractor-dispatch-image.png",
       "url": "https://www.kohactive.com/work/select-home-warranty/",
       "roles": [
-        "Product Strategy",
+        "Product Lead",
         "Product Management",
         "Team Director"
       ]
@@ -49,7 +49,7 @@
       "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275210/api/thl-graphic.png",
       "url": null,
       "roles": [
-        "Product Strategy",
+        "Product Lead",
         "Product Management",
         "Team Director"
       ]
@@ -70,8 +70,8 @@
     },
     "avatar": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275277/api/jk-profile-pic.jpg",
     "employment": {
-      "company": "Kohactive",
-      "position": "Managing Director"
+      "company": "LaunchPad Lab",
+      "position": "VP of Client Strategy"
     },
     "education": {
       "institution": "Boston University",
@@ -93,8 +93,8 @@
         }
       ]
     },
-    "biography": "<p>Hi, I'm John. I'm a full-stack product builder from Chicago. I'm currently running a digital product agency that I founded in 2008. I help startups and businesses build custom software that enables them to innovate and grow.</p><p>My software adventures started in 1995 when I was twelve years old and discovered AOL. I created punters and scrollers to learn how to code using Visual Basic. I used to create interfaces using Microsoft Paint. I probably annoyed a lot of people with the stupid apps I built. Fast forward to 2007. I started creating websites and custom content management systems for some local businesses to help develop their online presence.</p><p>I founded Kohactive with a mission of creating quality software for companies of all sizes. Initially, I acted as a project manager, designer, and front-end developer but eventually moved into backend development, product management, and strategy. Since then, I've helped launch over 200 products for startups, SMBs, and enterprise companies. I enjoy the entire process of product development from the ideation to strategy to execution.</p><p>When I'm not working or spending time with my family, I enjoy a variety of hobbies like photography, tinkering with some IoT/home automation, and working on side projects. I'm a fan of whiskey and have been known to make some delicious cocktails at home.</p>",
-    "short_bio": "Hi, I’m John Koht, a full-stack product builder from Chicago with experience building impactful products & teams.",
+    "biography": "<p>Hi, I'm John. I'm a full-stack product leader from Chicago. I founded Kohactive, a digital product agency, in 2008 that was recently acquired by LaunchPad Lab. I'm currently the VP of Client Strategy, where I help organizations through product strategy and development.</p><p>My software adventures started in 1995 when I was twelve years old and discovered AOL. I created punters and scrollers to learn how to code using Visual Basic. I used to create interfaces using Microsoft Paint. I probably annoyed a lot of people with the stupid apps I built. Fast forward to 2007. I started making websites and custom content management systems for some local businesses to help develop their online presence.</p><p>I founded Kohactive with a mission of creating quality software for companies of all sizes. Initially, I acted as a project manager, designer, and front-end developer. Eventually, I moved into backend development, product management, and strategy. Since then, I've helped launch over 200 products for startups, SMBs, and enterprise companies. I enjoy the entire process of product development, from ideation to strategy to execution.</p><p>My core focus is product development. I'm interested in product vision and strategy as well as building implementation teams and processes.</p><p>When I'm not working or spending time with my family, I enjoy various hobbies like photography, tinkering with some IoT/home automation, and working on side projects. I'm a fan of whiskey and have been known to make some delicious cocktails at home.</p>",
+    "short_bio": "Hi, I’m John Koht, a full-stack product leader from Chicago with experience building impactful products & teams.",
     "links": [
       {
         "site": "Instagram",
