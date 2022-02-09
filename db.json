@@ -90,6 +90,12 @@
           "first_name": "Anthony",
           "last_name": "Koht",
           "birthdate": "2019-04-27 00:42:00"
+        },
+        {
+          "name": "Gianluca Koht",
+          "first_name": "Gianluca",
+          "last_name": "Koht",
+          "birthdate": "2021-08-30 12:15:00"
         }
       ]
     },
