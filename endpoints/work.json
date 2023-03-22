@@ -1,0 +1,58 @@
+{
+  "work": [
+    {
+      "id": "work_1",
+      "client": {
+        "company": "Hub Group",
+        "logo": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275210/api/hub-group-logo.svg",
+        "industry": "Logistics & Transportation"
+      },
+      "type": "mobile_app",
+      "title": "Powering an Enterprise Fleet",
+      "description": "HubPro is an enterprise mobile app that powers a fleet of over 5,000 drivers.  I worked with senior management on product strategy and helped the delivery team build a best-in-class product. I introduce design-thinking principles that transformed how we approached the project. The new product enabled drivers to work faster and smarter.",
+      "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275210/api/hub-group-iphone.png",
+      "url": "https://www.kohactive.com/work/logistics-fleet-driver-mobile-app/",
+      "roles": [
+        "Product Lead",
+        "Product Management",
+        "Design Lead"
+      ]
+    },
+    {
+      "id": "work_2",
+      "client": {
+        "company": "Select Home Warranty",
+        "logo": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275210/api/shw-logo.svg",
+        "industry": "Insurance"
+      },
+      "type": "custom_software",
+      "title": "Contractor Dispatch Automation",
+      "description": "One of the many successful projects we launched with Select Home Warranty is a powerful automation system. We used design-thinking and an agile approach to create a custom software system that reduced contractor dispatching from hours to automatic.",
+      "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275210/api/shw-contractor-dispatch-image.png",
+      "url": "https://www.kohactive.com/work/select-home-warranty/",
+      "roles": [
+        "Product Lead",
+        "Product Management",
+        "Team Director"
+      ]
+    },
+    {
+      "id": "work_3",
+      "client": {
+        "company": "Tiny House Listings",
+        "logo": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275210/api/thl-logo.svg",
+        "industry": "Real Estate"
+      },
+      "type": "custom_software",
+      "title": "The Largest Tiny House Marketplace",
+      "description": "I helped launch the largest real estate marketplace for tiny homes from a simple WordPress site to a scalable customer software product. I led product strategy and a team of designers, developers, and a product manager. I continue to lead product and strategy with the founders and internal development team.",
+      "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275210/api/thl-graphic.png",
+      "url": null,
+      "roles": [
+        "Product Lead",
+        "Product Management",
+        "Team Director"
+      ]
+    }
+  ]
+}
