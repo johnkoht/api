@@ -1,58 +1,56 @@
-{
-  "photos": [
-    {
-      "id": "photo_1",
-      "description": "Sears Tower from the Chicago street bridge.",
-      "url": "https://flic.kr/p/2ic6TNL",
-      "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/chicago-bridge.jpg"
-    },
-    {
-      "id": "photo_2",
-      "description": "Red Rocks in Colorado",
-      "url": "https://flic.kr/p/2ic6EEb",
-      "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/red-rocks.jpg"
-    },
-    {
-      "id": "photo_3",
-      "description": "Church in Paris",
-      "url": "https://flic.kr/p/2ic3kRg",
-      "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/paris.jpg"
-    },
-    {
-      "id": "photo_4",
-      "description": "Eiffel Tower at night",
-      "url": "https://flic.kr/p/2ic5F7e",
-      "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/eiffel-tower.jpg"
-    },
-    {
-      "id": "photo_5",
-      "description": "Anthony is a n00b",
-      "url": "https://flic.kr/p/2ic3Cwa",
-      "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/anthony.jpg"
-    },
-    {
-      "id": "photo_6",
-      "description": "Roscoe awaiting his sibling",
-      "url": "https://flic.kr/p/2ig1Hnn",
-      "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/roscoe.jpg"
-    },
-    {
-      "id": "photo_7",
-      "description": "John Hancock Building in Chicago",
-      "url": "https://flic.kr/p/2ic6SLF",
-      "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/hancock.jpg"
-    },
-    {
-      "id": "photo_8",
-      "description": "Yosemite National park",
-      "url": "https://flic.kr/p/2ic3yTJ",
-      "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/yosemite.jpg"
-    },
-    {
-      "id": "photo_9",
-      "description": "New York, New Yrok",
-      "url": "https://flic.kr/p/2ic5Gr8",
-      "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/nyc.jpg"
-    }
-  ]
-}
+[
+  {
+    "id": "photo_1",
+    "description": "Sears Tower from the Chicago street bridge.",
+    "url": "https://flic.kr/p/2ic6TNL",
+    "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/chicago-bridge.jpg"
+  },
+  {
+    "id": "photo_2",
+    "description": "Red Rocks in Colorado",
+    "url": "https://flic.kr/p/2ic6EEb",
+    "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/red-rocks.jpg"
+  },
+  {
+    "id": "photo_3",
+    "description": "Church in Paris",
+    "url": "https://flic.kr/p/2ic3kRg",
+    "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/paris.jpg"
+  },
+  {
+    "id": "photo_4",
+    "description": "Eiffel Tower at night",
+    "url": "https://flic.kr/p/2ic5F7e",
+    "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/eiffel-tower.jpg"
+  },
+  {
+    "id": "photo_5",
+    "description": "Anthony is a n00b",
+    "url": "https://flic.kr/p/2ic3Cwa",
+    "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/anthony.jpg"
+  },
+  {
+    "id": "photo_6",
+    "description": "Roscoe awaiting his sibling",
+    "url": "https://flic.kr/p/2ig1Hnn",
+    "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/roscoe.jpg"
+  },
+  {
+    "id": "photo_7",
+    "description": "John Hancock Building in Chicago",
+    "url": "https://flic.kr/p/2ic6SLF",
+    "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/hancock.jpg"
+  },
+  {
+    "id": "photo_8",
+    "description": "Yosemite National park",
+    "url": "https://flic.kr/p/2ic3yTJ",
+    "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/yosemite.jpg"
+  },
+  {
+    "id": "photo_9",
+    "description": "New York, New Yrok",
+    "url": "https://flic.kr/p/2ic5Gr8",
+    "image": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600284401/api/nyc.jpg"
+  }
+]

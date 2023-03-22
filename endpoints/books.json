@@ -1,1117 +1,1115 @@
-{
-  "books": [
-    {
-      "id": 1,
-      "title": "Thinking, Fast and Slow",
-      "subtitle": null,
-      "author": "Daniel Kahneman",
-      "edition": null,
-      "read": true,
-      "recommend": "absolutely",
-      "links": [
-        {
-          "site": "Bookshop",
-          "url": "https://bookshop.org/a/92291/9780374533557",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Understanding Michael Porter",
-      "subtitle": "The Essential Guide to Competition and Strategy",
-      "author": "Joan Magretta",
-      "edition": null,
-      "read": true,
-      "recommend": "yes",
-      "links": [
-        {
-          "site": "Bookshop",
-          "url": "https://bookshop.org/a/92291/9781422160596",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "title": "The Mom Test",
-      "subtitle": "How to talk to customers & learn if your business is a good idea when everyone is lying to you",
-      "author": "Rob Fitzpatrick",
-      "edition": null,
-      "read": true,
-      "recommend": "yes",
-      "links": [
-        {
-          "site": "Bookshop",
-          "url": "https://bookshop.org/a/92291/9781492180746",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "title": "Competing Against Luck",
-      "subtitle": "The Story of Innovation and Customer Choice",
-      "author": "Clayton M. Christensen",
-      "edition": null,
-      "read": true,
-      "recommend": "yes",
-      "links": [
-        {
-          "site": "Bookshop",
-          "url": "https://bookshop.org/a/92291/9780062435613",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "7 Powers",
-      "subtitle": "The Foundations of Business Strategy",
-      "author": "Hamilton Helmer",
-      "edition": null,
-      "read": true,
-      "recommend": "yes",
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780998116310",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Working Backwards",
-      "subtitle": "Insights, Stories, and Secrets from Inside Amazon",
-      "author": "Colin Bryar and Bill Carr",
-      "edition": null,
-      "read": false,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9781250267597",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Super Thinking",
-      "subtitle": "The Big Book of Mental Models",
-      "author": "Gabriel Weinberg and Lauren McCann",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780525533580",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Continuous Discovery Habits",
-      "subtitle": "Discover Products that Create Customer Value and Business Value",
-      "author": "Teresa Torres",
-      "edition": null,
-      "read": false,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9781736633304",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "The Lean Startup",
-      "subtitle": "How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
-      "author": "Eric Ries",
-      "edition": null,
-      "read": true,
-      "recommend": "yes",
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780307887894",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Thinking in Bets",
-      "subtitle": "Making Smarter Decisions When You Don't Have All the Facts",
-      "author": "Annie Duke",
-      "edition": null,
-      "read": true,
-      "recommend": "yes",
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780735216372",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "The Great CEO Within",
-      "subtitle": "The Tactical Guide to Company Building",
-      "author": "Matt Mochary",
-      "edition": null,
-      "read": false,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780578599281",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "High Output Management",
-      "subtitle": null,
-      "author": "Andrew Grove",
-      "edition": null,
-      "read": true,
-      "recommend": "yes",
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780679762881",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "The Courage to be Disliked",
-      "subtitle": "The Japanese Phenomenon That Shows You How to Change Your Life and Achieve Real Happiness",
-      "author": "Ichiro Kishimi and Fumitake Koga",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9781501197277",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Antifragile",
-      "subtitle": "Things That Gain from Disorder",
-      "author": "Nassim Nicholas Taleb",
-      "edition": null,
-      "read": true,
-      "recommend": "absolutely",
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780812979688",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Trillion Dollar Coach",
-      "subtitle": "The Leadership Playbook of Silicon Valley's Bill Campbell",
-      "author": "",
-      "edition": null,
-      "read": true,
-      "recommend": "yes",
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780062839268",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Resilient Management",
-      "subtitle": null,
-      "author": "Lara Hogan",
-      "edition": null,
-      "read": true,
-      "recommend": "yes",
-      "links": [
-        {
-          "site": "amazon",
-          "url": "https://a.co/d/3J6Prpo",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "The Art of Thinking Clearly",
-      "subtitle": null,
-      "author": "Rolf Dobelli",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780062219695",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Tribal Leadership",
-      "subtitle": "Leveraging Natural Groups to Build a Thriving Organization",
-      "author": "Dave Logan, John King, and Halee Fischer-Wright",
-      "edition": null,
-      "read": false,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780061251320",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Inspired",
-      "subtitle": "How to Create Tech Products Customers Love",
-      "author": "Marty Cagan",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9781119387503",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Empowered",
-      "subtitle": "Ordinary People, Extraordinary Products",
-      "author": "Marty Cagan and Chris Jones",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9781119691297",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Principles",
-      "subtitle": "Life and Work",
-      "author": "Ray Dalio",
-      "edition": null,
-      "read": true,
-      "recommend": "yes",
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9781501124020",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Tribe",
-      "subtitle": "On Homecoming and Belonging",
-      "author": "Sebastian Junger",
-      "edition": null,
-      "read": false,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9781455566389",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Hooked",
-      "subtitle": "How to Build Habit-Forming Products",
-      "author": "Nir Eyal",
-      "edition": null,
-      "read": false,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9781591847786",
-          "icon": ""
-         }
-      ]
-    },
-    {
-      "title": "The Goal",
-      "subtitle": "A Process of Ongoing Improvement",
-      "author": "Eliyahu M. Goldratt",
-      "edition": null,
-      "read": false,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780884271956",
-          "icon": ""
-         }
-      ]
-    },
-    {
-      "title": "The Paradox of Choice",
-      "subtitle": "Why More Is Less",
-      "author": "Barry Schwartz",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780060005696",
-          "icon": ""
-         }
-      ]
-    },
-    {
-      "title": "Consumed",
-      "subtitle": "How Markets Corrupt Children, Infantilize Adults, and Swallow Citizens Whole",
-      "author": "Benjamin R. Barber",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "amazon",
-          "url": "https://a.co/d/iNWc4nv",
-          "icon": ""
-         }
-      ]
-    },
-    {
-      "title": "Socialnomics",
-      "subtitle": "How Social Media Transforms the Way We Live and Do Business",
-      "author": "Erik Qualman",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "amazon",
-          "url": "https://a.co/d/1zbS05H",
-          "icon": ""
-         }
-      ]
-    },
-    {
-      "title": "Sense & Respond",
-      "subtitle": "How Successful Organizations Listen to Customers and Create New Products Continuously",
-      "author": "Jeff Gothelf and Josh Seiden",
-      "edition": null,
-      "read": false,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9781633691889",
-          "icon": ""
-         }
-      ]
-    },
-    {
-      "title": "Spin Selling",
-      "subtitle": "Situation Problem Implication Need-Payoff",
-      "author": "Neil Rackham",
-      "edition": null,
-      "read": false,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780070522350",
-          "icon": ""
-         }
-      ]
-    },
-    {
-      "title": "Thanks for the Feedback",
-      "subtitle": "The Science and Art of Receiving Feedback Well",
-      "author": "Douglas Stone and Sheila Heen",
-      "edition": null,
-      "read": false,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780143127130",
-          "icon": ""
-         }
-      ]
-    },
-    {
-      "title": "The E-Myth Revisited",
-      "subtitle": "Why Most Small Businesses Don't Work and What to Do About It",
-      "author": "Michael E. Gerber",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780887307287",
-          "icon": ""
-         }
-      ]
-    },
-    {
-      "title": "The Exceptional Presenter",
-      "subtitle": "A Proven Formula to Open Up and Own the Room",
-      "author": "Timothy J. Koegel",
-      "edition": null,
-      "read": false,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9781632993632",
-          "icon": ""
-         }
-      ]
-    },
-    {
-      "title": "How to Win Friends & Influence People",
-      "subtitle": "The Only Book You Need to Lead You to Success",
-      "author": "Dale Carnegie",
-      "edition": null,
-      "read": true,
-      "recommend": "yes",
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780671027032",
-          "icon": ""
-         }
-      ]
-    },
-    {
-      "title": "Dear Citizen Math",
-      "subtitle": "How Math Class Can Inspire a More Rational and Respectful Society",
-      "author": "Karim Ani",
-      "edition": null,
-      "read": false,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9781736408537",
-          "icon": ""
-         }
-      ]
-    },
-    {
-      "title": "David and Goliath",
-      "subtitle": "Underdogs, Misfits, and the Art of Battling Giants",
-      "author": "Malcolm Gladwell",
-      "edition": null,
-      "read": false,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780316204378",
-          "icon": ""
-         }
-      ]
-    },
-    {
-      "title": "100 Things Every Designer Needs to Know About People",
-      "author": "Susan Weinschenk",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780136746911",
-          "icon": ""
-         }
-      ]
-    },
-    {
-      "title": "The Startup Playbook",
-      "subtitle": "Secrets of the Fastest-Growing Startups from Their Founding Entrepreneurs",
-      "author": "David S. Kidder and Reid Hoffman",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9781452105048",
-          "icon": ""
-         }
-      ]
-    },
-    {
-      "title": "Four Steps to the Epiphany",
-      "subtitle": "Successful Strategies for Products that Win",
-      "author": "Steven Blank",
-      "edition": null,
-      "read": false,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9781119690351",
-          "icon": ""
-         }
-      ]
-    },
-    {
-      "title": "100 Design Methods",
-      "subtitle": "A Structured Approach for Driving Innovation in Your Organization",
-      "author": "Vijay Kumar",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "amazon",
-          "url": "https://a.co/d/bs9mHsM",
-          "icon": ""
-         }
-      ]
-    },
-    {
-      "title": "Value Proposition Design",
-      "subtitle": "How to Create Products and Services Customers Want",
-      "author": "Alexander Osterwalder, Yves Pigneur, Gregory Bernarda, Alan Smith",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9781118968055",
-          "icon": ""
-         }
-      ]
-    },
-    {
-      "title": "Engineering Management for the Rest of Us",
-      "subtitle": null,
-      "author": "Sarah Drasner",
-      "edition": null,
-      "read": false,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9798986769318",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "The Psychology of Money",
-      "subtitle": "Timeless Lessons on Wealth, Greed, and Happiness",
-      "author": "Morgan Housel",
-      "edition": null,
-      "read": true,
-      "recommend": "absolutely",
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780857197689",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Build",
-      "subtitle": "An Unorthodox Guide to Making Things Worth Making",
-      "author": "Tony Fadell",
-      "edition": null,
-      "read": true,
-      "recommend": "yes",
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780063046061",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Good Strategy, Bad Strategy",
-      "subtitle": "The Difference and Why It Matters",
-      "author": "Richard P. Rumelt",
-      "edition": null,
-      "read": true,
-      "recommend": "yes",
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780307886231",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "David Hume: Essays",
-      "subtitle": "Moral, Political, and Literary",
-      "author": "David Hume",
-      "edition": "Revised Edition, 1985",
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://www.libertyfund.org/books/essays-moral-political-and-literary/",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "A Treatise of Human Nature",
-      "subtitle": null,
-      "author": "David Hume",
-      "edition": "Everyman's Library 1911 Edition",
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9781717528803",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "The Divine Comedy",
-      "subtitle": null,
-      "author": "Dante Alighieri",
-      "edition": "The Modern Library 1932 Edition",
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9781717528803",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "The Portable Atheist",
-      "subtitle": "Essential Readings for the Nonbeliever",
-      "author": "Christopher Hitchens",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780306816086",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "The Republic of Plato",
-      "subtitle": "",
-      "author": "Plato, Allan Bloom (Translator)",
-      "edition": "Second Edition, 1991",
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "amazon",
-          "url": "https://a.co/d/awHGa8q",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "The Discourses and Other Early Political Writings",
-      "subtitle": "",
-      "author": "Jean-Jacques Rousseau",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9781316605547",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "What Nietzsche Really Said",
-      "subtitle": "",
-      "author": "Robert C. Solomon and Kathleen M. Higgins",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780805210941",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Nietzsche: The Man and His Philosophy",
-      "subtitle": "",
-      "author": "R. J. Hollingdale",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780521002950",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "The Will to Power",
-      "subtitle": "",
-      "author": "Friedrich Nietzsche",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/books/the-will-to-power/9780141195357",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Thus Spake Zarathustra",
-      "subtitle": "A Book for All and None",
-      "author": "Friedrich Nietzsche",
-      "edition": "First Edition, 1909",
-      "read": true,
-      "recommend": "yes",
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9781910749258",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Untimely Meditations",
-      "subtitle": "",
-      "author": "Friedrich Nietzsche",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780521585842",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Human, All Too Human",
-      "subtitle": "",
-      "author": "Friedrich Nietzsche",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/books/human-all-too-human/9780140446178",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Nietzsche in Shapes and Colors",
-      "subtitle": "",
-      "author": "Jutta and Wolfgang M. Schröder",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/books/nietzsche-in-shapes-and-colors/9783791388167",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Nicomachean Ethics",
-      "subtitle": "",
-      "author": "Aristotle",
-      "edition": null,
-      "read": true,
-      "recommend": "yes",
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/books/nicomachean-ethics/9780872204645",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Politics",
-      "subtitle": "",
-      "author": "Aristotle",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/books/politics/9780140444211",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "The Aeneid",
-      "subtitle": "",
-      "author": "Virgil",
-      "edition": "Everyman's Library 1904 Edition",
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9781548088668",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Voltaire's Philosophical Dictionary",
-      "subtitle": "",
-      "author": "Voltaire",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9781015450578",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "System of Transcendental Idealism",
-      "subtitle": "",
-      "author": "Friedrich Wilhelm Joseph Schelling",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780813914589",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "De natura deorum; Academica",
-      "subtitle": "",
-      "author": "Marcus Tullius Cicero",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9781017469691",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Man and His Symbols",
-      "subtitle": "",
-      "author": "Carl G. Jung",
-      "edition": null,
-      "read": true,
-      "recommend": "yes",
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780593499993",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Beyond Freedom and Dignity",
-      "subtitle": "",
-      "author": "B. F. Skinner",
-      "edition": "Knopf 1971",
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "amazon",
-          "url": "https://a.co/d/cWLaBKj",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "The Matrix and Philosophy",
-      "subtitle": "Welcome to the Desert of the Real",
-      "author": "William Irwin",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780812695021",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Philosophers Explain The Matrix",
-      "subtitle": "",
-      "author": "Christopher Grau",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "amazon",
-          "url": "https://a.co/d/8Sn0rD3",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Christianity Not Mysterious",
-      "subtitle": "Or, a Treatise Shewing, That There Is Nothing in the Gospel Contrary to Reason, Nor Above It.",
-      "author": "John Toland",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780342385362",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "The Art of War",
-      "subtitle": "",
-      "author": "Sun Tzu",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9781590302255",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Consciousness and the Brain",
-      "subtitle": "Deciphering How the Brain Codes Our Thoughts",
-      "author": "Stanislas Dehaene",
-      "edition": null,
-      "read": false,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780143126263",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "I Wear the Black Hat",
-      "subtitle": "Grappling with Villains (Real and Imagined)",
-      "author": "Chuck Klosterman",
-      "edition": null,
-      "read": false,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9781439184509",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "The Birth Order Effect",
-      "subtitle": "How to Better Understand Yourself and Others",
-      "author": "Clifford A. Pickover",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://a.co/d/6x8risd",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "The Force of Reason",
-      "subtitle": "",
-      "author": "Oriana Fallaci",
-      "edition": null,
-      "read": false,
-      "recommend": null,
-      "links": [
-        {
-          "site": "amazon",
-          "url": "https://a.co/d/b6ppMlz",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "title": "Looking Backwards",
-      "subtitle": "",
-      "author": "Edward Bellamy",
-      "edition": null,
-      "read": true,
-      "recommend": null,
-      "links": [
-        {
-          "site": "bookshop",
-          "url": "https://bookshop.org/a/92291/9780486290386",
-          "icon": ""
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "title": "Thinking, Fast and Slow",
+    "subtitle": null,
+    "author": "Daniel Kahneman",
+    "edition": null,
+    "read": true,
+    "recommend": "absolutely",
+    "links": [
+      {
+        "site": "Bookshop",
+        "url": "https://bookshop.org/a/92291/9780374533557",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Understanding Michael Porter",
+    "subtitle": "The Essential Guide to Competition and Strategy",
+    "author": "Joan Magretta",
+    "edition": null,
+    "read": true,
+    "recommend": "yes",
+    "links": [
+      {
+        "site": "Bookshop",
+        "url": "https://bookshop.org/a/92291/9781422160596",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "The Mom Test",
+    "subtitle": "How to talk to customers & learn if your business is a good idea when everyone is lying to you",
+    "author": "Rob Fitzpatrick",
+    "edition": null,
+    "read": true,
+    "recommend": "yes",
+    "links": [
+      {
+        "site": "Bookshop",
+        "url": "https://bookshop.org/a/92291/9781492180746",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Competing Against Luck",
+    "subtitle": "The Story of Innovation and Customer Choice",
+    "author": "Clayton M. Christensen",
+    "edition": null,
+    "read": true,
+    "recommend": "yes",
+    "links": [
+      {
+        "site": "Bookshop",
+        "url": "https://bookshop.org/a/92291/9780062435613",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "7 Powers",
+    "subtitle": "The Foundations of Business Strategy",
+    "author": "Hamilton Helmer",
+    "edition": null,
+    "read": true,
+    "recommend": "yes",
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780998116310",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Working Backwards",
+    "subtitle": "Insights, Stories, and Secrets from Inside Amazon",
+    "author": "Colin Bryar and Bill Carr",
+    "edition": null,
+    "read": false,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781250267597",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Super Thinking",
+    "subtitle": "The Big Book of Mental Models",
+    "author": "Gabriel Weinberg and Lauren McCann",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780525533580",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Continuous Discovery Habits",
+    "subtitle": "Discover Products that Create Customer Value and Business Value",
+    "author": "Teresa Torres",
+    "edition": null,
+    "read": false,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781736633304",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "The Lean Startup",
+    "subtitle": "How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+    "author": "Eric Ries",
+    "edition": null,
+    "read": true,
+    "recommend": "yes",
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780307887894",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Thinking in Bets",
+    "subtitle": "Making Smarter Decisions When You Don't Have All the Facts",
+    "author": "Annie Duke",
+    "edition": null,
+    "read": true,
+    "recommend": "yes",
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780735216372",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "The Great CEO Within",
+    "subtitle": "The Tactical Guide to Company Building",
+    "author": "Matt Mochary",
+    "edition": null,
+    "read": false,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780578599281",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "High Output Management",
+    "subtitle": null,
+    "author": "Andrew Grove",
+    "edition": null,
+    "read": true,
+    "recommend": "yes",
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780679762881",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "The Courage to be Disliked",
+    "subtitle": "The Japanese Phenomenon That Shows You How to Change Your Life and Achieve Real Happiness",
+    "author": "Ichiro Kishimi and Fumitake Koga",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781501197277",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Antifragile",
+    "subtitle": "Things That Gain from Disorder",
+    "author": "Nassim Nicholas Taleb",
+    "edition": null,
+    "read": true,
+    "recommend": "absolutely",
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780812979688",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Trillion Dollar Coach",
+    "subtitle": "The Leadership Playbook of Silicon Valley's Bill Campbell",
+    "author": "",
+    "edition": null,
+    "read": true,
+    "recommend": "yes",
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780062839268",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Resilient Management",
+    "subtitle": null,
+    "author": "Lara Hogan",
+    "edition": null,
+    "read": true,
+    "recommend": "yes",
+    "links": [
+      {
+        "site": "amazon",
+        "url": "https://a.co/d/3J6Prpo",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "The Art of Thinking Clearly",
+    "subtitle": null,
+    "author": "Rolf Dobelli",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780062219695",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Tribal Leadership",
+    "subtitle": "Leveraging Natural Groups to Build a Thriving Organization",
+    "author": "Dave Logan, John King, and Halee Fischer-Wright",
+    "edition": null,
+    "read": false,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780061251320",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Inspired",
+    "subtitle": "How to Create Tech Products Customers Love",
+    "author": "Marty Cagan",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781119387503",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Empowered",
+    "subtitle": "Ordinary People, Extraordinary Products",
+    "author": "Marty Cagan and Chris Jones",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781119691297",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Principles",
+    "subtitle": "Life and Work",
+    "author": "Ray Dalio",
+    "edition": null,
+    "read": true,
+    "recommend": "yes",
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781501124020",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Tribe",
+    "subtitle": "On Homecoming and Belonging",
+    "author": "Sebastian Junger",
+    "edition": null,
+    "read": false,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781455566389",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Hooked",
+    "subtitle": "How to Build Habit-Forming Products",
+    "author": "Nir Eyal",
+    "edition": null,
+    "read": false,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781591847786",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "The Goal",
+    "subtitle": "A Process of Ongoing Improvement",
+    "author": "Eliyahu M. Goldratt",
+    "edition": null,
+    "read": false,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780884271956",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "The Paradox of Choice",
+    "subtitle": "Why More Is Less",
+    "author": "Barry Schwartz",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780060005696",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Consumed",
+    "subtitle": "How Markets Corrupt Children, Infantilize Adults, and Swallow Citizens Whole",
+    "author": "Benjamin R. Barber",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "amazon",
+        "url": "https://a.co/d/iNWc4nv",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Socialnomics",
+    "subtitle": "How Social Media Transforms the Way We Live and Do Business",
+    "author": "Erik Qualman",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "amazon",
+        "url": "https://a.co/d/1zbS05H",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Sense & Respond",
+    "subtitle": "How Successful Organizations Listen to Customers and Create New Products Continuously",
+    "author": "Jeff Gothelf and Josh Seiden",
+    "edition": null,
+    "read": false,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781633691889",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Spin Selling",
+    "subtitle": "Situation Problem Implication Need-Payoff",
+    "author": "Neil Rackham",
+    "edition": null,
+    "read": false,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780070522350",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Thanks for the Feedback",
+    "subtitle": "The Science and Art of Receiving Feedback Well",
+    "author": "Douglas Stone and Sheila Heen",
+    "edition": null,
+    "read": false,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780143127130",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "The E-Myth Revisited",
+    "subtitle": "Why Most Small Businesses Don't Work and What to Do About It",
+    "author": "Michael E. Gerber",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780887307287",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "The Exceptional Presenter",
+    "subtitle": "A Proven Formula to Open Up and Own the Room",
+    "author": "Timothy J. Koegel",
+    "edition": null,
+    "read": false,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781632993632",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "How to Win Friends & Influence People",
+    "subtitle": "The Only Book You Need to Lead You to Success",
+    "author": "Dale Carnegie",
+    "edition": null,
+    "read": true,
+    "recommend": "yes",
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780671027032",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Dear Citizen Math",
+    "subtitle": "How Math Class Can Inspire a More Rational and Respectful Society",
+    "author": "Karim Ani",
+    "edition": null,
+    "read": false,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781736408537",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "David and Goliath",
+    "subtitle": "Underdogs, Misfits, and the Art of Battling Giants",
+    "author": "Malcolm Gladwell",
+    "edition": null,
+    "read": false,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780316204378",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "100 Things Every Designer Needs to Know About People",
+    "author": "Susan Weinschenk",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780136746911",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "The Startup Playbook",
+    "subtitle": "Secrets of the Fastest-Growing Startups from Their Founding Entrepreneurs",
+    "author": "David S. Kidder and Reid Hoffman",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781452105048",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Four Steps to the Epiphany",
+    "subtitle": "Successful Strategies for Products that Win",
+    "author": "Steven Blank",
+    "edition": null,
+    "read": false,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781119690351",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "100 Design Methods",
+    "subtitle": "A Structured Approach for Driving Innovation in Your Organization",
+    "author": "Vijay Kumar",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "amazon",
+        "url": "https://a.co/d/bs9mHsM",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Value Proposition Design",
+    "subtitle": "How to Create Products and Services Customers Want",
+    "author": "Alexander Osterwalder, Yves Pigneur, Gregory Bernarda, Alan Smith",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781118968055",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Engineering Management for the Rest of Us",
+    "subtitle": null,
+    "author": "Sarah Drasner",
+    "edition": null,
+    "read": false,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9798986769318",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "The Psychology of Money",
+    "subtitle": "Timeless Lessons on Wealth, Greed, and Happiness",
+    "author": "Morgan Housel",
+    "edition": null,
+    "read": true,
+    "recommend": "absolutely",
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780857197689",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Build",
+    "subtitle": "An Unorthodox Guide to Making Things Worth Making",
+    "author": "Tony Fadell",
+    "edition": null,
+    "read": true,
+    "recommend": "yes",
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780063046061",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Good Strategy, Bad Strategy",
+    "subtitle": "The Difference and Why It Matters",
+    "author": "Richard P. Rumelt",
+    "edition": null,
+    "read": true,
+    "recommend": "yes",
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780307886231",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "David Hume: Essays",
+    "subtitle": "Moral, Political, and Literary",
+    "author": "David Hume",
+    "edition": "Revised Edition, 1985",
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://www.libertyfund.org/books/essays-moral-political-and-literary/",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "A Treatise of Human Nature",
+    "subtitle": null,
+    "author": "David Hume",
+    "edition": "Everyman's Library 1911 Edition",
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781717528803",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "The Divine Comedy",
+    "subtitle": null,
+    "author": "Dante Alighieri",
+    "edition": "The Modern Library 1932 Edition",
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781717528803",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "The Portable Atheist",
+    "subtitle": "Essential Readings for the Nonbeliever",
+    "author": "Christopher Hitchens",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780306816086",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "The Republic of Plato",
+    "subtitle": "",
+    "author": "Plato, Allan Bloom (Translator)",
+    "edition": "Second Edition, 1991",
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "amazon",
+        "url": "https://a.co/d/awHGa8q",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "The Discourses and Other Early Political Writings",
+    "subtitle": "",
+    "author": "Jean-Jacques Rousseau",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781316605547",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "What Nietzsche Really Said",
+    "subtitle": "",
+    "author": "Robert C. Solomon and Kathleen M. Higgins",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780805210941",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Nietzsche: The Man and His Philosophy",
+    "subtitle": "",
+    "author": "R. J. Hollingdale",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780521002950",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "The Will to Power",
+    "subtitle": "",
+    "author": "Friedrich Nietzsche",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/books/the-will-to-power/9780141195357",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Thus Spake Zarathustra",
+    "subtitle": "A Book for All and None",
+    "author": "Friedrich Nietzsche",
+    "edition": "First Edition, 1909",
+    "read": true,
+    "recommend": "yes",
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781910749258",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Untimely Meditations",
+    "subtitle": "",
+    "author": "Friedrich Nietzsche",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780521585842",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Human, All Too Human",
+    "subtitle": "",
+    "author": "Friedrich Nietzsche",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/books/human-all-too-human/9780140446178",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Nietzsche in Shapes and Colors",
+    "subtitle": "",
+    "author": "Jutta and Wolfgang M. Schröder",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/books/nietzsche-in-shapes-and-colors/9783791388167",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Nicomachean Ethics",
+    "subtitle": "",
+    "author": "Aristotle",
+    "edition": null,
+    "read": true,
+    "recommend": "yes",
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/books/nicomachean-ethics/9780872204645",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Politics",
+    "subtitle": "",
+    "author": "Aristotle",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/books/politics/9780140444211",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "The Aeneid",
+    "subtitle": "",
+    "author": "Virgil",
+    "edition": "Everyman's Library 1904 Edition",
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781548088668",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Voltaire's Philosophical Dictionary",
+    "subtitle": "",
+    "author": "Voltaire",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781015450578",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "System of Transcendental Idealism",
+    "subtitle": "",
+    "author": "Friedrich Wilhelm Joseph Schelling",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780813914589",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "De natura deorum; Academica",
+    "subtitle": "",
+    "author": "Marcus Tullius Cicero",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781017469691",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Man and His Symbols",
+    "subtitle": "",
+    "author": "Carl G. Jung",
+    "edition": null,
+    "read": true,
+    "recommend": "yes",
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780593499993",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Beyond Freedom and Dignity",
+    "subtitle": "",
+    "author": "B. F. Skinner",
+    "edition": "Knopf 1971",
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "amazon",
+        "url": "https://a.co/d/cWLaBKj",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "The Matrix and Philosophy",
+    "subtitle": "Welcome to the Desert of the Real",
+    "author": "William Irwin",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780812695021",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Philosophers Explain The Matrix",
+    "subtitle": "",
+    "author": "Christopher Grau",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "amazon",
+        "url": "https://a.co/d/8Sn0rD3",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Christianity Not Mysterious",
+    "subtitle": "Or, a Treatise Shewing, That There Is Nothing in the Gospel Contrary to Reason, Nor Above It.",
+    "author": "John Toland",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780342385362",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "The Art of War",
+    "subtitle": "",
+    "author": "Sun Tzu",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781590302255",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Consciousness and the Brain",
+    "subtitle": "Deciphering How the Brain Codes Our Thoughts",
+    "author": "Stanislas Dehaene",
+    "edition": null,
+    "read": false,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780143126263",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "I Wear the Black Hat",
+    "subtitle": "Grappling with Villains (Real and Imagined)",
+    "author": "Chuck Klosterman",
+    "edition": null,
+    "read": false,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781439184509",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "The Birth Order Effect",
+    "subtitle": "How to Better Understand Yourself and Others",
+    "author": "Clifford A. Pickover",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://a.co/d/6x8risd",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "The Force of Reason",
+    "subtitle": "",
+    "author": "Oriana Fallaci",
+    "edition": null,
+    "read": false,
+    "recommend": null,
+    "links": [
+      {
+        "site": "amazon",
+        "url": "https://a.co/d/b6ppMlz",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Looking Backwards",
+    "subtitle": "",
+    "author": "Edward Bellamy",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780486290386",
+        "icon": ""
+      }
+    ]
+  }
+]

@@ -1,80 +1,78 @@
 {
-  "about": {
-    "name": "John Koht",
-    "first_name": "John",
-    "last_name": "Koht",
-    "birthdate": "1983-11-17 05:31:17",
-    "location": {
-      "latitude": 41.895890,
-      "longitude": -87.672550,
-      "city": "Chicago",
-      "state": "IL",
-      "zip_code": 60622
+  "name": "John Koht",
+  "first_name": "John",
+  "last_name": "Koht",
+  "birthdate": "1983-11-17 05:31:17",
+  "location": {
+    "latitude": 41.89589,
+    "longitude": -87.67255,
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": 60622
+  },
+  "avatar": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275277/api/jk-profile-pic.jpg",
+  "employment": {
+    "company": "LaunchPad Lab",
+    "position": "VP of Client Strategy"
+  },
+  "education": {
+    "institution": "Boston University",
+    "degree": "Bachelors or Arts",
+    "major": "Philosophy"
+  },
+  "family": {
+    "spouse": {
+      "name": "Cristina Falbo",
+      "first_name": "Cristina",
+      "last_name": "Falbo"
     },
-    "avatar": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275277/api/jk-profile-pic.jpg",
-    "employment": {
-      "company": "LaunchPad Lab",
-      "position": "VP of Client Strategy"
-    },
-    "education": {
-      "institution": "Boston University",
-      "degree": "Bachelors or Arts",
-      "major": "Philosophy"
-    },
-    "family": {
-      "spouse": {
-        "name": "Cristina Falbo",
-        "first_name": "Cristina",
-        "last_name": "Falbo"
-      },
-      "kids": [
-        {
-          "name": "Anthony Koht",
-          "first_name": "Anthony",
-          "last_name": "Koht",
-          "birthdate": "2019-04-27 00:42:00"
-        },
-        {
-          "name": "Gianluca Koht",
-          "first_name": "Gianluca",
-          "last_name": "Koht",
-          "birthdate": "2021-08-30 12:15:00"
-        }
-      ]
-    },
-    "biography": "<p>Hi, I'm John. I'm a full-stack product leader from Chicago. I founded Kohactive, a digital product agency, in 2008 that was recently acquired by LaunchPad Lab. I'm currently the VP of Client Strategy, where I help organizations through product strategy and development.</p><p>My software adventures started in 1995 when I was twelve years old and discovered AOL. I created punters and scrollers to learn how to code using Visual Basic. I used to create interfaces using Microsoft Paint. I probably annoyed a lot of people with the stupid apps I built. Fast forward to 2007. I started making websites and custom content management systems for some local businesses to help develop their online presence.</p><p>I founded Kohactive with a mission of creating quality software for companies of all sizes. Initially, I acted as a project manager, designer, and front-end developer. Eventually, I moved into backend development, product management, and strategy. Since then, I've helped launch over 200 products for startups, SMBs, and enterprise companies. I enjoy the entire process of product development, from ideation to strategy to execution.</p><p>My core focus is product development. I'm interested in product vision and strategy as well as building implementation teams and processes.</p><p>When I'm not working or spending time with my family, I enjoy various hobbies like photography, tinkering with some IoT/home automation, and working on side projects. I'm a fan of whiskey and have been known to make some delicious cocktails at home.</p>",
-    "short_bio": "Hi, I’m John Koht, a full-stack product leader from Chicago with experience building impactful products & teams.",
-    "links": [
+    "kids": [
       {
-        "site": "Instagram",
-        "icon": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275356/api/instagram.svg",
-        "url": "https://instagram.com/john.koht"
+        "name": "Anthony Koht",
+        "first_name": "Anthony",
+        "last_name": "Koht",
+        "birthdate": "2019-04-27 00:42:00"
       },
       {
-        "site": "Twitter",
-        "icon": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275357/api/twitter.svg",
-        "url": "https://twitter.com/johnkoht"
-      },
-      {
-        "site": "Github",
-        "icon": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275356/api/github.svg",
-        "url": "https://github.com/johnkoht"
-      },
-      {
-        "site": "Dribbble",
-        "icon": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275356/api/dribbble.svg",
-        "url": "https://dribbble.com/johnkoht"
-      },
-      {
-        "site": "LinkedIn",
-        "icon": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275356/api/linkedin.svg",
-        "url": "https://linkedin.com/in/johnkoht"
-      },
-      {
-        "site": "Email",
-        "icon": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275356/api/gmail.svg",
-        "url": "mailto:john.koht@gmail.com"
+        "name": "Gianluca Koht",
+        "first_name": "Gianluca",
+        "last_name": "Koht",
+        "birthdate": "2021-08-30 12:15:00"
       }
     ]
-  }
+  },
+  "biography": "<p>Hi, I'm John. I'm a full-stack product leader from Chicago. I founded Kohactive, a digital product agency, in 2008 that was recently acquired by LaunchPad Lab. I'm currently the VP of Client Strategy, where I help organizations through product strategy and development.</p><p>My software adventures started in 1995 when I was twelve years old and discovered AOL. I created punters and scrollers to learn how to code using Visual Basic. I used to create interfaces using Microsoft Paint. I probably annoyed a lot of people with the stupid apps I built. Fast forward to 2007. I started making websites and custom content management systems for some local businesses to help develop their online presence.</p><p>I founded Kohactive with a mission of creating quality software for companies of all sizes. Initially, I acted as a project manager, designer, and front-end developer. Eventually, I moved into backend development, product management, and strategy. Since then, I've helped launch over 200 products for startups, SMBs, and enterprise companies. I enjoy the entire process of product development, from ideation to strategy to execution.</p><p>My core focus is product development. I'm interested in product vision and strategy as well as building implementation teams and processes.</p><p>When I'm not working or spending time with my family, I enjoy various hobbies like photography, tinkering with some IoT/home automation, and working on side projects. I'm a fan of whiskey and have been known to make some delicious cocktails at home.</p>",
+  "short_bio": "Hi, I’m John Koht, a full-stack product leader from Chicago with experience building impactful products & teams.",
+  "links": [
+    {
+      "site": "Instagram",
+      "icon": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275356/api/instagram.svg",
+      "url": "https://instagram.com/john.koht"
+    },
+    {
+      "site": "Twitter",
+      "icon": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275357/api/twitter.svg",
+      "url": "https://twitter.com/johnkoht"
+    },
+    {
+      "site": "Github",
+      "icon": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275356/api/github.svg",
+      "url": "https://github.com/johnkoht"
+    },
+    {
+      "site": "Dribbble",
+      "icon": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275356/api/dribbble.svg",
+      "url": "https://dribbble.com/johnkoht"
+    },
+    {
+      "site": "LinkedIn",
+      "icon": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275356/api/linkedin.svg",
+      "url": "https://linkedin.com/in/johnkoht"
+    },
+    {
+      "site": "Email",
+      "icon": "https://res.cloudinary.com/dmow1tay1/image/upload/v1600275356/api/gmail.svg",
+      "url": "mailto:john.koht@gmail.com"
+    }
+  ]
 }
