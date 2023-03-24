@@ -1,6 +1,5 @@
 [
   {
-    "id": 1,
     "title": "Thinking, Fast and Slow",
     "subtitle": null,
     "author": "Daniel Kahneman",
@@ -16,7 +15,6 @@
     ]
   },
   {
-    "id": 2,
     "title": "Understanding Michael Porter",
     "subtitle": "The Essential Guide to Competition and Strategy",
     "author": "Joan Magretta",
@@ -32,7 +30,6 @@
     ]
   },
   {
-    "id": 3,
     "title": "The Mom Test",
     "subtitle": "How to talk to customers & learn if your business is a good idea when everyone is lying to you",
     "author": "Rob Fitzpatrick",
@@ -48,7 +45,6 @@
     ]
   },
   {
-    "id": 4,
     "title": "Competing Against Luck",
     "subtitle": "The Story of Innovation and Customer Choice",
     "author": "Clayton M. Christensen",
@@ -59,6 +55,21 @@
       {
         "site": "Bookshop",
         "url": "https://bookshop.org/a/92291/9780062435613",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Never Split the Difference",
+    "subtitle": "Negotiating as If Your Life Depended on It",
+    "author": "Chris Voss and Tahl Raz",
+    "edition": null,
+    "read": true,
+    "recommend": "yes",
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780062407801",
         "icon": ""
       }
     ]
@@ -179,6 +190,21 @@
       {
         "site": "bookshop",
         "url": "https://bookshop.org/a/92291/9780679762881",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "The Five Dysfunctions of a Team",
+    "subtitle": "A Leadership Fable",
+    "author": "Patrick M. Lencioni",
+    "edition": null,
+    "read": true,
+    "recommend": "yes",
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780787960759",
         "icon": ""
       }
     ]
@@ -666,7 +692,7 @@
     "title": "David Hume: Essays",
     "subtitle": "Moral, Political, and Literary",
     "author": "David Hume",
-    "edition": "Revised Edition, 1985",
+    "edition": "Liberty Fund Revised Edition, 1985",
     "read": true,
     "recommend": null,
     "links": [
@@ -681,7 +707,7 @@
     "title": "A Treatise of Human Nature",
     "subtitle": null,
     "author": "David Hume",
-    "edition": "Everyman's Library 1911 Edition",
+    "edition": "Everyman's Library, 1911 Edition",
     "read": true,
     "recommend": null,
     "links": [
@@ -696,7 +722,7 @@
     "title": "The Divine Comedy",
     "subtitle": null,
     "author": "Dante Alighieri",
-    "edition": "The Modern Library 1932 Edition",
+    "edition": "The Modern Library, 1932 Edition",
     "read": true,
     "recommend": null,
     "links": [
@@ -891,7 +917,7 @@
     "title": "The Aeneid",
     "subtitle": "",
     "author": "Virgil",
-    "edition": "Everyman's Library 1904 Edition",
+    "edition": "Everyman's Library, 1904 Edition",
     "read": true,
     "recommend": null,
     "links": [
@@ -966,7 +992,7 @@
     "title": "Beyond Freedom and Dignity",
     "subtitle": "",
     "author": "B. F. Skinner",
-    "edition": "Knopf 1971",
+    "edition": "Knopf, 1971",
     "read": true,
     "recommend": null,
     "links": [
