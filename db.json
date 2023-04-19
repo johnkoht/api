@@ -904,6 +904,36 @@
       ]
     },
     {
+      "title": "Execution",
+      "subtitle": "The Discipline of Getting Things Done",
+      "author": "Ram Charan and Larry Bossidy",
+      "edition": null,
+      "read": true,
+      "recommend": "no",
+      "links": [
+        {
+          "site": "bookshop",
+          "url": "https://bookshop.org/a/92291/9780609610572",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "title": "Sum",
+      "subtitle": "Forty Tales from the Afterlives",
+      "author": "David Eagleman",
+      "edition": null,
+      "read": true,
+      "recommend": "yes",
+      "links": [
+        {
+          "site": "bookshop",
+          "url": "https://bookshop.org/a/92291/9780307389930",
+          "icon": ""
+        }
+      ]
+    },
+    {
       "title": "David Hume: Essays",
       "subtitle": "Moral, Political, and Literary",
       "author": "David Hume",
