@@ -234,7 +234,112 @@
     "links": [
       {
         "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781419735219",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Invisible Women",
+    "subtitle": "Data Bias in a World Designed for Men",
+    "author": "Caroline Criado Perez",
+    "edition": null,
+    "read": true,
+    "recommend": "yes",
+    "links": [
+      {
+        "site": "bookshop",
         "url": "https://bookshop.org/a/92291/9780812979688",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "The Self-Driven Child",
+    "subtitle": "The Science and Sense of Giving Your Kids More Control Over Their Lives",
+    "author": "William Stixrud and Ned Johnson",
+    "edition": null,
+    "read": true,
+    "recommend": "absolutely",
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780735222526",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Scaling People",
+    "subtitle": "Tactics for Management and Company Building",
+    "author": "Claire Hughes Johnson",
+    "edition": null,
+    "read": true,
+    "recommend": "yes",
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781953953216",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Alchemy",
+    "subtitle": "The Dark Art and Curious Science of Creating Magic in Brands, Business, and Life",
+    "author": "Rory Sutherland",
+    "edition": null,
+    "read": true,
+    "recommend": "yes",
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780062388421",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Demand-Side Sales 101",
+    "subtitle": "Stop Selling and Help Your Customers Make Progress",
+    "author": "Bob Moesta and Greg Engle",
+    "edition": null,
+    "read": true,
+    "recommend": "yes",
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781544509983",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Extreme Ownership",
+    "subtitle": "How U.S. Navy Seals Lead and Win",
+    "author": "Jocko Willink and Leif Babin",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781250183866",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "Practical Empathy",
+    "subtitle": "For Collaboration and Creativity in Your Work",
+    "author": "Indi Young",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781933820484",
         "icon": ""
       }
     ]
