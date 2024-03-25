@@ -75,6 +75,21 @@
     ]
   },
   {
+    "title": "Influence",
+    "subtitle": "The Psychology of Persuasion",
+    "author": "Robert B. Cialdini",
+    "edition": null,
+    "read": true,
+    "recommend": "yes",
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780062937650",
+        "icon": ""
+      }
+    ]
+  },
+  {
     "title": "7 Powers",
     "subtitle": "The Foundations of Business Strategy",
     "author": "Hamilton Helmer",
@@ -285,6 +300,21 @@
     ]
   },
   {
+    "title": "Multipliers",
+    "subtitle": "How the Best Leaders Make Everyone Smarter",
+    "author": "Liz Wiseman",
+    "edition": null,
+    "read": true,
+    "recommend": "yes",
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780062663078",
+        "icon": ""
+      }
+    ]
+  },
+  {
     "title": "Alchemy",
     "subtitle": "The Dark Art and Curious Science of Creating Magic in Brands, Business, and Life",
     "author": "Rory Sutherland",
@@ -435,6 +465,21 @@
     ]
   },
   {
+    "title": "Thinking in Systems",
+    "subtitle": null,
+    "author": "Donella Meadows",
+    "edition": null,
+    "read": false,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781603580557",
+        "icon": ""
+      }
+    ]
+  },
+  {
     "title": "Principles",
     "subtitle": "Life and Work",
     "author": "Ray Dalio",
@@ -495,6 +540,21 @@
     ]
   },
   {
+    "title": "Storyworthy",
+    "subtitle": "Engage, Teach, Persuade, and Change Your Life Through the Power of Storytelling",
+    "author": "Matthew Dicks",
+    "edition": null,
+    "read": true,
+    "recommend": "yes",
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9781608685486",
+        "icon": ""
+      }
+    ]
+  },
+  {
     "title": "The Paradox of Choice",
     "subtitle": "Why More Is Less",
     "author": "Barry Schwartz",
@@ -520,6 +580,36 @@
       {
         "site": "amazon",
         "url": "https://a.co/d/iNWc4nv",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "The Price of Time",
+    "subtitle": "The Real Story of Interest",
+    "author": "Edward Chancellor",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780802160065",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "More Money Than God",
+    "subtitle": "Hedge Funds and the Making of a New Elite",
+    "author": "Sebastian Mallaby",
+    "edition": null,
+    "read": true,
+    "recommend": null,
+    "links": [
+      {
+        "site": "bookshop",
+        "url": "https://bookshop.org/a/92291/9780143119418",
         "icon": ""
       }
     ]
